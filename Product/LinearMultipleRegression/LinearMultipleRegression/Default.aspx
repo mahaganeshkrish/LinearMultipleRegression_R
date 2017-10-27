@@ -6,7 +6,7 @@
     <asp:Table ID="Table1" runat="server">
         <asp:TableRow>
             <asp:TableCell>
-                <asp:Label ID="Label1" runat="server" Text="Label">x1</asp:Label>
+                <asp:Label ID="Label1" runat="server" Text="Label">X1</asp:Label>
             </asp:TableCell>
             <asp:TableCell>
                 <asp:TextBox ID="TextBox1" runat="server"></asp:TextBox>
